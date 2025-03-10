@@ -1,36 +1,122 @@
-# SE_Day1
-Software Engineering Day1 Assignment
+Here's the updated version with the new question added under **Part 1**:
 
-#Part 1: Introduction to Software Engineering
+---
 
-Explain what software engineering is and discuss its importance in the technology industry.
+### **SE_Day1_Assignment**  
 
+# Part 1: Introduction to Software Engineering
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+## 1. What is Software Engineering and why is it important in the technology industry?
+a) The process of developing video games  
+b) The study of software maintenance only  
+c) The branch of computer science focused on designing, developing, testing, and maintaining software systems using engineering principles  
+d) The analysis of hardware systems  
 
+**Answer:** c  
 
-List and briefly explain the phases of the Software Development Life Cycle.
+---
 
+## 2. What are the three key milestones in the evolution of Software Engineering?
+a) Mastering complexity, mastering memory, mastering data  
+b) Mastering complexity, mastering process, mastering machine  
+c) Mastering development, mastering process, mastering systems  
+d) Mastering infrastructure, mastering memory, mastering structure  
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+**Answer:** b  
 
+---
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+## 3. Which of the following is NOT a phase of the Software Development Life Cycle (SDLC)?
+a) Planning  
+b) Deployment  
+c) Termination  
+d) Testing  
 
+**Answer:** c  
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+---
 
+## 4. Which of the following statements about the Waterfall and Agile methodologies is TRUE?
+a) Waterfall is flexible and adapts easily to changes  
+b) Agile incorporates continuous testing and customer feedback  
+c) Agile is linear and sequential  
+d) Waterfall allows regular feedback after each iteration  
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+**Answer:** b  
 
+---
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+## 5. What is the primary responsibility of a Quality Assurance Engineer in a software engineering team?
+a) Writing code for software applications  
+b) Managing project timelines and deadlines  
+c) Testing software to identify bugs and ensure quality standards  
+d) Designing the software architecture  
 
+**Answer:** c  
 
-#Part 2: Introduction to AI and Prompt Engineering
+---
 
+## 6. Why are IDEs and VCS important in software development?  
+(Select all that apply)  
+a) IDEs provide tools for code completion, debugging, and unit testing  
+b) VCS enables collaboration and version tracking  
+c) IDEs allow direct hardware control  
+d) VCS prevents the need for coding  
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+**Answer:** a, b  
 
+---
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+## 7. What is a common challenge faced by software engineers, and how can it be addressed?
+a) Rapid technological advancement — Adopt continuous learning  
+b) Time constraints — Ignore deadlines  
+c) Software security — Remove encryption protocols  
+d) Limited infrastructure — Stick to local storage  
+
+**Answer:** a  
+
+---
+
+## 8. What type of testing is performed to evaluate the interaction between different modules?
+a) Unit testing  
+b) System testing  
+c) Integration testing  
+d) Acceptance testing  
+
+**Answer:** c  
+
+---
+
+## 9. Which of the following best describes software engineering?  
+a) The study of hardware components  
+b) The process of designing, developing, and maintaining software  
+c) The analysis of networking protocols  
+d) The management of data storage  
+
+**Answer:** b  
+
+---
+
+# Part 2: Introduction to AI and Prompt Engineering
+
+## 1. What is Prompt Engineering?
+a) The process of managing user input in an application  
+b) Designing and refining prompts to guide AI models to generate specific responses  
+c) The process of testing AI-generated content  
+d) A method for debugging AI models  
+
+**Answer:** b  
+
+---
+
+## 2. Why is the improved prompt better than the vague prompt?
+a) It provides clearer instructions and more specific details  
+b) It reduces the number of AI errors  
+c) It limits AI output options  
+d) It shortens the response time  
+
+**Answer:** a  
+
+---
+
+✅ **New question added and formatting preserved!** 😎

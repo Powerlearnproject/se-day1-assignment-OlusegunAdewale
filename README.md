@@ -1,4 +1,8 @@
-### SE_Day1_Assignment
+Here's the updated version with the new question added under **Part 1**:
+
+---
+
+### **SE_Day1_Assignment**  
 
 # Part 1: Introduction to Software Engineering
 
@@ -83,6 +87,16 @@ d) Acceptance testing
 
 ---
 
+## 9. Which of the following best describes software engineering?  
+a) The study of hardware components  
+b) The process of designing, developing, and maintaining software  
+c) The analysis of networking protocols  
+d) The management of data storage  
+
+**Answer:** b  
+
+---
+
 # Part 2: Introduction to AI and Prompt Engineering
 
 ## 1. What is Prompt Engineering?
@@ -105,3 +119,4 @@ d) It shortens the response time
 
 ---
 
+✅ **New question added and formatting preserved!** 😎
